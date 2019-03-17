@@ -1,0 +1,3 @@
+rootProject.name = 'guess-number-Gradle'
+include 'core'
+
